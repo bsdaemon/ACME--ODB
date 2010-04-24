@@ -1,0 +1,10 @@
+(C) 2010 W. Dean Freeman
+
+This is free software, made available under the terms of the Artistic License 2.0.  Please see http://www.perlfoundation.org/artistic_license_2_0 for details.
+
+ACME::ODB is a MooseX::Declare-based Perl module for computing the "Old Dirty Bastard" quotient of an individual.  Based on the individuals age, it can compute such fun-loving information as:
+
+- The youngest age the individual can date without it being too creepy
+- The youngest vintage of Scotch that the individual should drink
+- more to come in future releases.
+haifa-darling:ACME--ODB wdf$ 
